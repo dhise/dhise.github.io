@@ -1,4 +1,11 @@
+
+
 # dhise.github.io
+
+5.21.24 
+Man almost a year has gone by since python. Have floated between a few languages and have recently dug into C++
+
+
 6.28 Have dove deep into python
 -Made a stupid rock,paper,scissors game. Pc chooses rock almost 80% of the time. No idea why. Weird.
 -Made a new repo with RPS python code. Code is extremely repetive and not efficiently written.
