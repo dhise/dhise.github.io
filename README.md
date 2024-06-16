@@ -2,6 +2,10 @@
 
 # dhise.github.io
 
+6.15.24
+finishing up player movement/detection in game added player script to new repo
+
+
 5.21.24 
 Man almost a year has gone by since python. Have floated between a few languages and have recently dug into C++
 
